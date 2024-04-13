@@ -1,2 +1,5 @@
-# Xash3D-CH Quick-Installer
-.
+- Quick installation
+- Precautionary measures against collapsing attacks
+- Current reGameDLL
+- A disk-friendly server with a low size
+- Quickly open your linux xash server with this setup program
