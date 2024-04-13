@@ -1,2 +1,2 @@
-# Xash3D-CH-Quick-Installer
+# Xash3D-CH Quick-Installer
 .
