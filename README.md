@@ -1,5 +1,5 @@
-<div align="center">
-  <img height="150" src="https://raw.githubusercontent.com/qberkdc/Xash3D-CH-Quick-Installer/public/images/xashch.png"  />
+<div align="right">
+  <img height="220" src="https://raw.githubusercontent.com/qberkdc/Xash3D-CH-Quick-Installer/public/images/xashch.png"  />
 </div>
 
 ```js
