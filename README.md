@@ -8,5 +8,5 @@
 
 File  | Download | Owner
 ------------- | ------------- | ------------- |
-Turkish Package | [View](https://github.com/qberkdc/Xash3D-CH-Quick-Installer/blob/public/turkish/xash_kur.py) | Berk
-English Package | [View](https://github.com/qberkdc/Xash3D-CH-Quick-Installer/blob/public/english/xash_install.py) | Berk
+Turkish Package | **[View File](https://github.com/qberkdc/Xash3D-CH-Quick-Installer/blob/public/turkish/xash_kur.py)** | Berk
+English Package | **[View File](https://github.com/qberkdc/Xash3D-CH-Quick-Installer/blob/public/english/xash_install.py)** | Berk
