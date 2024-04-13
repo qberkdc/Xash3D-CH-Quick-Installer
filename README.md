@@ -1,3 +1,7 @@
+<div align="center">
+  <img height="150" src=""  />
+</div>
+
 ```js
 - Quick installation
 - Precautionary measures against collapsing attacks
