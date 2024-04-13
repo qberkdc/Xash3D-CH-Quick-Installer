@@ -6,6 +6,7 @@
 - Quickly open your linux xash server with this setup program
 ```
 
-👉 __Download [English](https://github.com/qberkdc/Xash3D-CH-Quick-Installer/tree/public/english)__
-
-👉 __Download [Turkish](https://github.com/qberkdc/Xash3D-CH-Quick-Installer/tree/public/turkish)__
+File  | Download | Owner
+------------- | ------------- | ------------- |
+Turkish Package | [View](https://github.com/qberkdc/Xash3D-CH-Quick-Installer/blob/public/turkish/xash_kur.py) | Berk
+English Package | [View](https://github.com/qberkdc/Xash3D-CH-Quick-Installer/blob/public/english/xash_install.py) | Berk
