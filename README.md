@@ -12,5 +12,9 @@
 
 File  | Download | Owner
 ------------- | ------------- | ------------- |
-Turkish Package | **[View File](https://github.com/qberkdc/Xash3D-CH-Quick-Installer/blob/public/turkish/xash_kur.py)** | Berk
-English Package | **[View File](https://github.com/qberkdc/Xash3D-CH-Quick-Installer/blob/public/english/xash_install.py)** | Berk
+Turkish Language | **[View File](https://github.com/qberkdc/Xash3D-CH-Quick-Installer/blob/public/turkish/xash_kur.py)** | Berk
+English Language | **[View File](https://github.com/qberkdc/Xash3D-CH-Quick-Installer/blob/public/english/xash_install.py)** | Berk
+
+```py
+- Note: Languages are only for you to install the software in a language that you can understand
+```
