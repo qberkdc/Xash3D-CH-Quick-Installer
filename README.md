@@ -1,4 +1,4 @@
-<div align="right">
+<div align="center">
   <img height="220" src="https://raw.githubusercontent.com/qberkdc/Xash3D-CH-Quick-Installer/public/images/xashch.png"  />
 </div>
 
