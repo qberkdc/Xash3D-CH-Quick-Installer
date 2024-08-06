@@ -4,7 +4,7 @@ import time
 import sys
 
 #	Variable
-run_server = "screen -AmdS server ./xash3d -game cstrike -dev 3 +public 1 +maxplayers 32 +port 27016 +map de_dust2 +sv_nat 0; screen -r server"
+run_server = "screen -S server ./xash3d -game cstrike -dev 3 +public 1 +maxplayers 32 +port 27016 +map de_dust2 +sv_nat 0"
 dl_server = "wget https://github.com/qberkdc/Xash3D-CH/releases/download/xashlinux_v2/xashch-server.zip; apt install unzip -y; dpkg --add-architecture i386; apt-get install libstdc++6:i386 -y; apt-get install lib32stdc++6; apt-get install libstdc++6; unzip xashch-server.zip; rm xashch-server.zip; chmod -R 777 xashch-server"
 opt_server = "nano xashch-server/cstrike/server.cfg"
 
